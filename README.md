@@ -1,4 +1,16 @@
 # NN_from_Scratch
+Here, we implement backpropagation code, and training Neural Networks. The goals of this assignment are as follows:
+
+- understand **Neural Networks** and how they are arranged in layered
+  architectures
+- understand and be able to implement (vectorized) **backpropagation**
+- implement various **update rules** used to optimize Neural Networks
+- implement **batch normalization** for training deep networks
+- implement **dropout** to regularize networks
+- effectively **cross-validate** and find the best hyperparameters for Neural
+  Network architecture
+
+
 
 ## Important Files
 
