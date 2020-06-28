@@ -20,7 +20,10 @@ Here, we implement backpropagation code, and training Neural Networks. The goals
 We implement batch normalization from scratch, and use it to train deep fully-connected networks.
 
 ![BatchNorm](/Images/BN1.PNG)
+
 ![BatchNorm](/Images/BN2.PNG)
+
+*Computation graph with Batch Normalization*
 ![BatchNorm](/Images/BN_bp.PNG)
 
 **Dropout**
